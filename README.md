@@ -30,7 +30,9 @@
 
 # GIT TREE
 Master 브랜치와 Dev 브랜치, Feature 브랜치로 나누었다.
-Feature -> Dev -> Master 순으로 Pull Request 하였다. (중간에 실수가 있어 조금 이상하게 된 부분이 있다.)
+
+Feature -> Dev -> Master 순으로 Pull Request 하였다. 
+
 이후 Master → Feature로 이어갔다
 ![image](https://user-images.githubusercontent.com/109207727/183556011-f33199ea-4ec9-4b8a-b525-c39a5bd4d690.png)
 
