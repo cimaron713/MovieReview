@@ -39,7 +39,9 @@ Feature -> Dev -> Master 순으로 Pull Request 하였다.
 # 소개
 
 ## 1.영화 리스트
-![image](https://user-images.githubusercontent.com/109207727/183557060-63e3b649-bd88-41cb-b1bf-13fbef6002bf.png)
+영화 리스트에서 평점과 리뷰의 수를 볼 수 있다. 
+
+![image](https://user-images.githubusercontent.com/109207727/183557902-c9cc687f-fcea-432e-ace8-105f0422e6be.png)
 
 ## 2. 영화등록
 ![image](https://user-images.githubusercontent.com/109207727/183556551-837a6f24-fa84-43d4-a5ee-0ce9caddedbc.png)
